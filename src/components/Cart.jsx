@@ -61,13 +61,10 @@ export default function Cart() {
         </Col>
         <Col
           span={7}
-          style={{ backgroundColor: "white", padding: "20px", height: "80%" }}
+          style={{ backgroundColor: "white", padding: "20px", height: "100%" }}
         >
-          <h1>Giao tới</h1>
-          <p style={{ fontSize: "20px" }}>
-            nguyễn hoài nam0835290901 204 lê thanh nghị, Phường Đồng Tâm, Quận
-            Hai Bà Trưng, Hà Nội
-          </p>
+          <h1>Nguyến Minh Hằng</h1>
+       
           <Divider />
           <h2>Tổng tiền sản phẩm</h2>
           <p style={{ fontSize: "20px" }}>10000 đ</p>

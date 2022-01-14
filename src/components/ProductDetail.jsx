@@ -24,7 +24,7 @@ export default function ProductDetail() {
           <img
             alt="item"
             src="https://getbootstrap.com.vn/blog/wp-content/uploads/2020/02/min-la-ai.jpg"
-            style={{ width: "100%", height: "80%", objectFit: "cover" }}
+            style={{ width: "100%", height: "90%", objectFit: "cover" }}
           />
           <div style={{ marginTop: "20px", alignItem: "center" }}>
             <Button type="primary" block>
@@ -71,22 +71,7 @@ export default function ProductDetail() {
             dành những lời có cánh khen ngợi, cùng với đó là những bình luận
             tích cực từ giới hâm mộ quốc tế cũng như những nghệ sĩ nổi tiếng
             trong làng giải trí Hàn Quốc.[5][6] Năm 2012, Min xuất hiện trong MV
-            của Cường Seven với tư cách là dancer. Vào những ngày cuối năm 2013,
-            một video được đăng lên từ kênh YouTube chính thức của nhóm nhảy
-            St.319 giới thiệu về ca sĩ chuẩn bị ra mắt của họ, đánh dấu sự lấn
-            sân sang lĩnh vực ca hát của họ. Ca sĩ đó là Min, cô chính thức ra
-            mắt với ca khúc "Tìm" kết hợp với rapper Mr.A. Dù sau đó cô đã cho
-            ra mắt nhiều ca khúc như "Nhớ", "Get Out", "Luôn Bên Anh"... và nhận
-            được nhiều sự ủng hộ khán giả, trong đó ca khúc ra mắt của cô là
-            "Tìm" góp mặt trên sân khấu chương trình Bài Hát Yêu Thích, Tháng 3
-            năm 2015 Min cho ra đời ca khúc " Y.Ê.U". Ca khúc nhận được sự chú ý
-            lớn từ cộng đồng mạng, đưa cô từ một vũ công trở thành một ca sĩ
-            thực thụ. Ca khúc đã nhận được sự ủng hộ lớn tự cộng đồng fan Vpop
-            và chiếm lĩnh vị trí đầu ở bảng xếp hạng Zing MP3 một thời gian.[7]
-            Kể từ đây, có thể nói Min đã giành được chỗ đứng trong thị trường âm
-            nhạc Việt Nam khi càng nhiều người biết đến cô hơn. Ngày 21 tháng 7,
-            Min tung ra ca khúc "Shine Your Light". Một ca khúc pop retro sôi
-            động, thể hiện nhiệt huyết của tuổi trẻ, cổ động tinh thần
+      
           </p>
         </Col>
       </Row>

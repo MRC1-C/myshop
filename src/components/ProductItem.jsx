@@ -6,7 +6,7 @@ const name =
   "Nguyễn Minh Hằng, thường được biết đến với n sdfadđfsdfghệ danh Min là một nữ ca sĩ và vũ công người";
 
 const ProductItemStyle = styled.div`
-  width: 370px;
+  width: 380px;
   height: 390px;
   cursor: pointer;
   background-color: white;
